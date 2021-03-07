@@ -1,0 +1,43 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name":"Compressor Burger",
+            "resaurant":"The Burger Factory",
+            "web":"https://burgerfactory.ca/",
+            "description":"15 oz A triple patty beef Burger",
+            "ingredients":["beef","lettuce","sauces","seasoning","tomato","Onion","pickle"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"3873",
+                    "line1":"Walker Road",
+                    "line2":"",
+                    "postalcode":"N8W 3T1",
+                    "country":"Canada"
+                }
+            ]
+        },
+    {
+       
+            
+                "id": 1,
+                "name":"Machine Burger",
+                "resaurant":"The Burger Factory",
+                "web":"https://burgerfactory.ca/",
+                "description":"10 oz A double patty beef Burger",
+                "ingredients":["beef","lettuce","sauces","seasoning","tomato","Onion","pickle","gluten free bun"],
+                "addresses": [
+                    {
+                        "addressid":"0",
+                        "number":"3873",
+                        "line1":"Walker Road",
+                        "line2":"",
+                        "postalcode":"N8W 3T1",
+                        "country":"Canada"
+                    }  
+                ]
+            }
+
+    ]
+}
